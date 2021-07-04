@@ -1,0 +1,9 @@
+     checking for file ‘/Users/apatterson/Desktop/projects/makefileR/DESCRIPTION’ ...  [32m✓[39m  [38;5;247mchecking for file ‘/Users/apatterson/Desktop/projects/makefileR/DESCRIPTION’[39m[36m[39m
+  [38;5;247m─[39m[38;5;247m  [39m[38;5;247mpreparing ‘makefileR’:[39m[36m[36m (2.7s)[36m[39m
+     checking DESCRIPTION meta-information ...  [32m✓[39m  [38;5;247mchecking DESCRIPTION meta-information[39m[36m[39m
+  [38;5;247m─[39m[38;5;247m  [39m[38;5;247mchecking for LF line-endings in source and make files and shell scripts[39m[36m[36m (819ms)[36m[39m
+  [38;5;247m─[39m[38;5;247m  [39m[38;5;247mchecking for empty or unneeded directories[39m[36m[39m
+   Removed empty directory ‘makefileR/man’
+[38;5;247m─[39m[38;5;247m  [39m[38;5;247mbuilding ‘makefileR_0.0.0.9000.tar.gz’[39m[36m[39m
+     
+[1] "./makefileR_0.0.0.9000.tar.gz"
