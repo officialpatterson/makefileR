@@ -1,3 +1,5 @@
+^renv$
+^renv\.lock$
 ^makefileR\.Rproj$
 ^\.Rproj\.user$
 ^LICENSE\.md$
